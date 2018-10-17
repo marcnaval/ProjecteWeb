@@ -1,0 +1,14 @@
+#masthead{
+	text-align:center;
+}
+
+#navigation a{
+		background-color: #FF0000;
+		height: 10px;
+		width: 100%;
+		display:block;
+}
+
+#navigation a:hover {
+		background-color: #6600FF;
+		cursor:default;
