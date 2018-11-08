@@ -1,0 +1,39 @@
+
+body{
+font-family: verdana;
+font-size: 0.8em	
+background-color: #ff;
+color: black;
+}
+
+#container {
+margin: 10px auto;
+width: 700px;
+}
+
+#masthead {
+text-align: center;
+padding: 5px;
+
+}
+
+#footer{
+color: green; 
+background-color: #ff;
+border-top-width: green;
+}
+
+/*
+#navigation a{
+background-color: #FF0000;
+height: 10px;
+width: 100%;
+display:block;
+src="imagenes/queso y peperoni.jpg" float:left; width="150" height="150"/>
+}
+#navigation a:hover {
+background-color: #6600FF;
+cursor:default;
+}	
+*/
+		
